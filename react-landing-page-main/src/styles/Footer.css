@@ -1,0 +1,11 @@
+#footer{
+    align-items: center;
+    margin: 20px 0 0 50%;
+    font-size: 30px;
+    font-weight: 600;
+    height: 100vh;
+}
+#footer i{
+display: inline-block;
+display: flex;
+}
